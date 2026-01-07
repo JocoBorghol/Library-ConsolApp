@@ -16,7 +16,7 @@ Genom transaktioner, index, vyer, lagrade procedurer och kontroller i applikatio
 Denna README innehåller den fullständiga tekniska dokumentationen och arbetsloggen.
 En mer översiktlig projektbeskrivning, installationsguide och körinstruktioner finns i projektets GitHub-README.
 
-👉 [Projekt README](../README.md)
+👉 [Projekt README](../../README.md)
 
 
 ---

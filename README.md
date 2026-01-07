@@ -43,7 +43,7 @@ Through transactions, indexes, views, stored procedures and application-level ch
 
 Below is a screenshot of the console-based user interface used in the application.
 
-![Console application screenshot](Library-ConsolApp/docs/images/Screenshot-Console.jpg)
+![Console application screenshot](LibraryK2U2/docs/images/Screenshot-Console.jpg)
 
 ---
 
@@ -129,7 +129,7 @@ The complete technical documentation, including:
 
 is available here:
 
-👉 **[Full documentation (Library-ConsolApp/docs/README.md)](Library-ConsolApp/docs/README.md)**
+👉 **[Full documentation (LibraryK2U2/docs/README.md)](LibraryK2U2/docs/README.md)**
 
 ---
 
